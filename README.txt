@@ -1,0 +1,3 @@
+Open index.html. Uses Bootstrap 5.3.8, Bootstrap Icons 1.13.1 and jQuery 4.0.0 via CDN. Internet access is required for CDN assets. Generated images are included locally. Forms are demonstrations and require secure back-end integration.
+Added Services, Blog listing, three educational blog-detail pages, and locally included blog/service images. Blog content is general template content and should be compliance-reviewed before publishing.
+Brand updated throughout to GlobalAid Assurance with a GA text-mark logo.
